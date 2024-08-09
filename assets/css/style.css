@@ -245,7 +245,7 @@ button {
 
 /*=============== HOME ===============*/
 .home {
-  background-image: url(../assets/img/site\ imobiliaria.jpg);
+  background-image: url(.../assets/img/site\ imobiliaria.jpg);
   padding-bottom: 0;
 
 }
